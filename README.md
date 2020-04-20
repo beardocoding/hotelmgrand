@@ -1,2 +1,1 @@
-# hotelmgrand
-freelance
+# hmg-website
